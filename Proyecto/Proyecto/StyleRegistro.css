@@ -1,0 +1,23 @@
+﻿
+#tablero {
+    width: 720px;
+    height: 720px;
+    background-color: #FAAC58;
+}
+
+.casilla {
+    width: 70px;
+    height: 70px;
+    border: 1px solid #000;
+    float: left;
+    font-size: 4em;
+    text-align: center;
+}
+
+.tenue {
+    background-color: #04B404;
+}
+
+.opaca {
+    background-color: #04B431;
+}
